@@ -1,3 +1,4 @@
 body{background-color: #7595c9;}
 a{color: white;}
 a:hover {color: black; text-decoration: none;}
+a:active {color: red; text-decoration: none;}
